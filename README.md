@@ -1,2 +1,2 @@
-# C_Exercies-
+# C_Exercises
 The C Programming Language Book Exercises
