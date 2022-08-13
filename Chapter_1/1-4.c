@@ -1,3 +1,6 @@
+//Exercise 1-4. Write a program to print the corresponding Celsius to
+//Fahrenheit table.
+
 #include <stdio.h>
 
 //Print Celsius-Fahrenheit table for celsius = 0, 5, ..., 100; floating-point version

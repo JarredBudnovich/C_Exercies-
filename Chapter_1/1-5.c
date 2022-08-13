@@ -1,3 +1,6 @@
+//Exercise 1-5. Modify the temperature conversion program to print the 
+//table in reverse order, that is, from 300 degrees to 0.
+
 #include <stdio.h>
 
 //Print Fahrenheit-Celsius table for fahr = 300, 280, ..., 0; floating-point version
